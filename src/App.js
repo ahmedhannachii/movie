@@ -1,6 +1,6 @@
 import React, {useState} from 'react';
 import './App.css';
-import Container from './Conponents/Container'
+import Container from './Components/Container'
 import Modal from 'react-modal';
 
 Modal.setAppElement('#root')
